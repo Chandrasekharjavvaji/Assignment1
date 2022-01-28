@@ -1,0 +1,26 @@
+4.
+The GitHub flow is a simple approach that lets you explore and collaborate on your projects without having to worry about losing your past work.
+As part of understanding the GitHub flow I have explored the below concepts during my 1st assignment.
+Pull requests:
+When dealing with branches, a pull request can be used to inform people about the changes you wish to make and solicit input. You can debate and review potential modifications with collaborators after opening a pull request, and you can submit more changes if necessary. You can add specific persons to your pull request as reviewers, indicating that you want their opinion on your improvements! A pull request can be merged into your main branch once it's ready.
+
+Repositories:
+A repository is where project work happens. It as your project folder. It contains all of your project’s files and revision history. You can work within a repository alone or invite others to collaborate with you on those files.
+We can give permissions to the repository by using Private and Public options. If we opt for private we can restrict the access to see and to commit the changes whereas with public access any one can see the repository and we can choose who can commit the changes
+
+README:
+
+Repositories also contain READMEs. You can add a README file to your repository to tell other people why your project is useful and steps which performed and details of Project further understanding. 
+
+Commit:
+
+To save the changes we can use option commit. 
+
+5.
+Conclusion:
+I enjoyed the process of creating first repository and exploring the basic concepts while creating repository and going forward I would like to experiment and learn more on GIT concepts to automate the projects and to understand the cloud concepts.
+
+
+
+
+
